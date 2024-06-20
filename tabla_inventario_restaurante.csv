@@ -1,0 +1,7 @@
+ID,Nombre del Artículo,Categoría,Descripción,Cantidad,Unidad de Medida,Precio Unitario,Proveedor,Fecha de Entrada,Fecha de Caducidad,Ubicación,Estado,Última Actualización,Notas
+1,Harina,Cocina,Harina de trigo,50,kg,0.5,Proveedor A,2024-06-01,2024-12-01,Almacén 1,Nuevo,2024-06-01,Almacenar en lugar seco
+2,Detergente,Limpieza,Detergente multiuso,20,litros,1.0,Proveedor B,2024-06-02,,Almacén 2,Nuevo,2024-06-02,Uso exclusivo para cocina
+3,Martillo,Mantenimiento,Martillo de acero,5,unidades,5.0,Proveedor C,2024-06-03,,Almacén 3,Usado,2024-06-03,Revisar periódicamente
+4,Azúcar,Cocina,Azúcar refinada,100,kg,0.8,Proveedor A,2024-06-01,2024-11-01,Almacén 1,Nuevo,2024-06-01,Mantener bien cerrada
+5,Escoba,Limpieza,Escoba con cerdas duras,10,unidades,3.0,Proveedor B,2024-06-02,,Almacén 2,Nuevo,2024-06-02,Usar solo en áreas secas
+6,Destornillador,Mantenimiento,Destornillador plano,15,unidades,2.5,Proveedor C,2024-06-03,,Almacén 3,Nuevo,2024-06-03,Revisar antes de usar
